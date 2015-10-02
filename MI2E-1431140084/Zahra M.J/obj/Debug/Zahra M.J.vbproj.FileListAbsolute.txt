@@ -1,0 +1,10 @@
+D:\Zahra M.J\Zahra M.J\bin\Debug\Zahra M.J.exe.config
+D:\Zahra M.J\Zahra M.J\bin\Debug\Zahra M.J.exe
+D:\Zahra M.J\Zahra M.J\bin\Debug\Zahra M.J.pdb
+D:\Zahra M.J\Zahra M.J\bin\Debug\Zahra M.J.xml
+D:\Zahra M.J\Zahra M.J\obj\Debug\Zahra_M.J.Form1.resources
+D:\Zahra M.J\Zahra M.J\obj\Debug\Zahra_M.J.Resources.resources
+D:\Zahra M.J\Zahra M.J\obj\Debug\Zahra M.J.vbproj.GenerateResource.Cache
+D:\Zahra M.J\Zahra M.J\obj\Debug\Zahra M.J.exe
+D:\Zahra M.J\Zahra M.J\obj\Debug\Zahra M.J.xml
+D:\Zahra M.J\Zahra M.J\obj\Debug\Zahra M.J.pdb
